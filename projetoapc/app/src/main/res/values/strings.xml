@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">projetoapc</string>
+    <string name="nome_comercial">Busca-Stickers</string>
+    <string name="login">Nome de usuário</string>
+    <string name="username">Digite seu nome se usuário</string>
+    <string name="Senha">Senha</string>
+    <string name="dsenha">Digite sua senha</string>
+    <string name="entrar">Entrar na conta</string>
+    <string name="cadastro">Se-cadastrar</string>
+    <string name="ou">OU</string>
+    <string name="categoria1">Mais Populares</string>
+    <string name="categoria2">Aleatórios</string>
+    <string name="vermais">Ver mais</string>
+    <string name="email">Digite seu e-mail</string>
+    <string name="cadastrar">Cadastro</string>
+    <string name="endereço">E-mail</string>
+    <string name="repitasenha">Repita sua senha novamente</string>
+    <string name="botaodelogar">Entrar</string>
+    <string name="galerias">Carregar mais galerias</string>
+
+</resources>
